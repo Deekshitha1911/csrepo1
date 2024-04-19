@@ -3,8 +3,7 @@ package employee;
 import java.awt.EventQueue;
 //fjkdhgu
 //jdhuighf
-//hksdgufin
-//jvhug
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
